@@ -1,7 +1,28 @@
+*{
+    font-family: Arial;
+}
+
 .sony{
     background-color: #000;
 }
 
 .sony img{
     width: 100px;
+}
+
+.navbar{
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+.navbar .nav-item img{
+    width: 10px;
+}
+
+.search .navbar-nav .nav-item a{
+    color: #000;
+}
+
+.navbar-nav .lens img{
+    width: 25px;
 }
