@@ -2,13 +2,18 @@
     font-family: Arial;
 }
 
+/* Line sony */
+
 .sony{
     background-color: #000;
+    width: 100%;
 }
 
 .sony img{
     width: 100px;
 }
+
+/* Navbar */
 
 .navbar{
     font-family: Helvetica;
@@ -25,4 +30,32 @@
 
 .navbar-nav .lens img{
     width: 25px;
+}
+
+/* Hero */
+
+.hero{
+    height: 70vh;
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.hero-content{
+    width: 500px;
+}
+
+.hero-content img{
+    width: 250px;
+}
+
+.hero-content button{
+    background-color: #cd3d0f;
+    color: #fff;
+    border: 0;
+}
+
+.hero-content button:hover{
+    background-color: #ca5027;
+    color: #fff;
 }
