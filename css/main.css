@@ -59,3 +59,16 @@
     background-color: #ca5027;
     color: #fff;
 }
+
+/* Hero slider */
+
+.hero-slider .image-slide img{
+    width: 200px;
+    border-radius: 15px;
+}
+
+.image-slide img:hover{
+    border: 3px solid #4799db;
+    border-radius: 20px;
+    padding: 3px 3px;
+}
