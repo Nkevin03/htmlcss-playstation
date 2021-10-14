@@ -72,3 +72,32 @@
     border-radius: 20px;
     padding: 3px 3px;
 }
+
+.text-center h3{
+    font-weight: bold;
+    font-size: 16px;
+    color: #4296da;
+}
+
+.text-center h4{
+    font-size: 35px;
+}
+
+.text-center p{
+    font-weight: bold;
+    color: #787878;
+}
+
+/* Hardware */
+
+.hardware .img-hardware img{
+    width: 100%;
+}
+
+.text-hardware p{
+    font-size: 20px;
+}
+
+.text-hardware button{
+    border-radius: 20px;
+}
