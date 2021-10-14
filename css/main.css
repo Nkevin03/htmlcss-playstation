@@ -32,6 +32,10 @@
     width: 25px;
 }
 
+.nav-z{
+    z-index: 1;
+}
+
 /* Hero */
 
 .hero{
@@ -117,4 +121,34 @@
 
 .border-b{
     border-bottom: 2px solid #0e7ad1;
+}
+
+/* It takes two */
+
+.takes{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.takes-content{
+    color: #fff;
+}
+
+.takes-content h3{
+    font-size: 35px;
+}
+
+.takes-content p{
+    font-size: 18px;
+}
+
+.takes-content img{
+    width: 250px;
+}
+
+.takes-content button{
+    background-color: #cd3d0f;
+    color: #fff;
+    border: 0;
 }
