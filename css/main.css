@@ -152,3 +152,28 @@
     color: #fff;
     border: 0;
 }
+
+.takes-content button:hover{
+    background-color: #cd3d0f;
+    color: #fff;
+}
+
+/* New games */
+
+.new-games{
+    background-color: #1f1f1f;
+    color: #fff;
+}
+
+.title-games h3{
+    font-size: 30px;
+}
+
+.title-games p{
+    font-size: 20px;
+}
+
+.game img{
+    width: 170px;
+    border-radius: 20px;
+}
