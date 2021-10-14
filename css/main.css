@@ -101,3 +101,20 @@
 .text-hardware button{
     border-radius: 20px;
 }
+
+.slide-hardware p{
+    text-align: center;
+    font-size: 18px;
+}
+
+.slide-hardware img{
+    width: 110px;
+}
+
+.opacity{
+    opacity: 70%;
+}
+
+.border-b{
+    border-bottom: 2px solid #0e7ad1;
+}
