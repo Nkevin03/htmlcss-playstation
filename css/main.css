@@ -226,3 +226,21 @@
     color: #727272;
     font-size: 18px;
 }
+
+/* Playstation now */
+
+.ps-now{
+    background-color: #161c3b;
+}
+
+.text-now img{
+    width: 100%;
+}
+
+.text-now p{
+    color: #fff;
+}
+
+.text-now button{
+    color: #000;
+}
