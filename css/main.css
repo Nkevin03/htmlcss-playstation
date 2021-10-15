@@ -244,3 +244,13 @@
 .text-now button{
     color: #000;
 }
+
+/* Social */
+
+.title-social{
+    text-align: center;
+}
+
+.img-social img{
+    width: 150px;
+}
