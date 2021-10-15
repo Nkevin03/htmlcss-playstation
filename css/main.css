@@ -177,3 +177,23 @@
     width: 170px;
     border-radius: 20px;
 }
+
+/* Playstation 4 */
+
+.title-ps4{
+    text-align: center;
+}
+
+.title-ps4 p{
+    color: #727272;
+    font-size: 18px;
+}
+
+.products-ps4 img{
+    width: 100%;
+}
+
+.products-ps4 p{
+    color: #727272;
+    font-size: 18px;
+}
