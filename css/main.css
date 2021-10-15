@@ -211,3 +211,18 @@
 .plus-games img{
     width: 100%;
 }
+
+/* Playstation store */
+
+.image-store img{
+    width: 300px;
+}
+
+.title-store{
+    text-align: center;
+}
+
+.title-store p{
+    color: #727272;
+    font-size: 18px;
+}
