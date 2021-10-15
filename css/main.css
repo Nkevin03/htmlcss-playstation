@@ -197,3 +197,17 @@
     color: #727272;
     font-size: 18px;
 }
+
+/* Playstation plus */
+
+.play-plus{
+    background-color: #bebcbb;
+}
+
+.plus-content img{
+    width: 100%;
+}
+
+.plus-games img{
+    width: 100%;
+}
