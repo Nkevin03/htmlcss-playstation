@@ -36,6 +36,11 @@
     z-index: 1;
 }
 
+.nav-button button:hover{
+    box-shadow: 0 0 0 1px #212529 inset,
+                 0 0 0 3px #fff inset;
+}
+
 /* Hero */
 
 .hero{
@@ -64,6 +69,14 @@
 
 .hero-content button:hover{
     background-color: #ca5027;
+    color: #fff;
+    box-shadow: 0 0 0 1px #ca5027 inset,
+                 0 0 0 3px #000 inset;
+}
+
+.hero-content button:focus{
+    box-shadow: none;
+    background-color: #cd3d0f;
     color: #fff;
 }
 
@@ -107,6 +120,11 @@
 
 .text-hardware button{
     border-radius: 20px;
+}
+
+.text-hardware button:hover{
+    box-shadow: 0 0 0 1px #0e7ad1 inset,
+                 0 0 0 3px #fff inset;
 }
 
 .slide-hardware p{
@@ -159,6 +177,14 @@
 .takes-content button:hover{
     background-color: #cd3d0f;
     color: #fff;
+    box-shadow: 0 0 0 1px #ca5027 inset,
+                 0 0 0 3px #000 inset;
+}
+
+.takes-content button:focus{
+    box-shadow: none;
+    background-color: #cd3d0f;
+    color: #fff;
 }
 
 /* New games */
@@ -201,6 +227,11 @@
     font-size: 18px;
 }
 
+.products-ps4 button:hover{
+    box-shadow: 0 0 0 1px #0e7ad1 inset,
+                 0 0 0 3px #fff inset;
+}
+
 /* Playstation plus */
 
 .play-plus{
@@ -213,6 +244,11 @@
 
 .plus-games img{
     width: 100%;
+}
+
+.plus-content button:hover{
+    box-shadow: 0 0 0 1px #0e7ad1 inset,
+    0 0 0 3px #fff inset;
 }
 
 /* Playstation store */
@@ -246,6 +282,11 @@
 
 .text-now button{
     color: #000;
+}
+
+.text-now button:hover{
+    box-shadow: 0 0 0 1px #0e7ad1 inset,
+    0 0 0 3px #fff inset;
 }
 
 /* Social */
